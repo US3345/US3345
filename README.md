@@ -10,7 +10,7 @@
 <h1 align="center">Hey, I'm Umasankar Sao 👨‍💻</h1>
 
 <p align="center">
-  <b>BTech CSE @ KIIT · 9.3 CGPA · SDE Aspirant · 10 LPA+ target</b><br/>
+  <b>BTech CSE @ KIIT | Focused on Java, DSA, and JavaScript | Building strong problem-solving skills</b><br/>
   <i>Building strong fundamentals, one commit at a time.</i>
 </p>
 
