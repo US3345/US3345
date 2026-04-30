@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Umasankar%20Sao&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20ML%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:58a6ff&height=220&section=header&text=Umasankar%20Sao&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Dev%20%7C%20ML%20Engineer%20%7C%20Computer%20Vision&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+real+things+that+solve+real+problems+%F0%9F%9A%80;Full+Stack+Dev+%7C+ML+Explorer+%7C+CV+Enthusiast;Java+%2B+DSA+%7C+React+%7C+Node.js+%7C+OpenCV;BTech+CSE+%40+KIIT+University)](https://github.com/US3345)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products+%F0%9F%9A%80;CNN+%7C+Data+Preprocessing+%7C+ML+with+Python;Full+Stack+with+React+%2B+Node+%2B+MongoDB;Computer+Vision+%7C+Object+Detection+%7C+Deep+Learning;BTech+CSE+%40+KIIT+University+%F0%9F%8E%93)](https://github.com/US3345)
 
 </div>
 
@@ -16,7 +16,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umasankarsao/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/USS123/)
-[![Code360](https://img.shields.io/badge/Code360%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/430c37b1-ee5a-4b0f-af3c-76860daf384d)
+[![Code360](https://img.shields.io/badge/Code360-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/430c37b1-ee5a-4b0f-af3c-76860daf384d)
+[![Live Project](https://img.shields.io/badge/InterviewIQ.AI-Live%20🟢-3fb950?style=for-the-badge&logo=githubpages&logoColor=white)](https://agnesh.github.io/Alpha-IQ-view/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/US3345)
 
 </div>
@@ -29,30 +30,70 @@
 
 ```python
 class Umasankar:
-    name        = "Umasankar Sao"
-    university  = "KIIT University, Bhubaneswar"
-    degree      = "B.Tech CSE"
-    location    = "Kolkata, West Bengal, India"
+    name       = "Umasankar Sao"
+    university = "KIIT University, Bhubaneswar"
+    degree     = "B.Tech CSE"
+    location   = "Kolkata, West Bengal, India 🇮🇳"
 
-    currently   = ["Mastering DSA in Java",
-                   "Building Full Stack projects with React + Node",
-                   "Exploring ML & Computer Vision"]
+    skills     = {
+        "Languages"  : ["Java", "Python", "JavaScript", "C", "C++"],
+        "Web"        : ["React", "Node.js", "Express", "MongoDB", "REST APIs"],
+        "ML / CV"    : ["CNN", "Data Preprocessing", "OpenCV",
+                        "TensorFlow", "Scikit-Learn", "NumPy", "Pandas"],
+        "DSA"        : ["Arrays", "Trees", "Graphs", "DP", "Backtracking"],
+    }
 
-    interests   = ["Deep Learning", "Object Detection",
-                   "Backend Systems", "Open Source"]
-
-    fun_fact    = "I debug code faster after midnight 🌙"
+    building   = "InterviewIQ.AI — AI-powered interview prep platform 🚀"
+    fun_fact   = "I debug code faster after midnight 🌙"
 ```
 
 <br/>
 
 ---
 
-## 🌐 Profile Highlights
+## 🌐 Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=US3345&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+## 🔴 Live Project
+
+<div align="center">
+
+### 🤖 [InterviewIQ.AI](https://agnesh.github.io/Alpha-IQ-view/)
+> An AI-powered interview preparation platform — live and deployed!
+
+[![Visit Live](https://img.shields.io/badge/🌐%20Visit%20Live%20Site-InterviewIQ.AI-58a6ff?style=for-the-badge)](https://agnesh.github.io/Alpha-IQ-view/)
+
+*Test the workflow, explore the features, and drop your feedback!*
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 All Projects
+
+<div align="center">
+
+| 🔥 Project | 📝 Description | 🛠 Stack | 🔗 |
+|:----------|:--------------|:--------:|:--:|
+| **InterviewIQ.AI** 🟢 | AI-powered interview prep platform — **Live!** | `AI` `JS` `Web` | [🌐 Live](https://agnesh.github.io/Alpha-IQ-view/) |
+| **Brain Tumor Detection** | Custom CNN classifying brain MRI scans | `Python` `CNN` `TensorFlow` `OpenCV` | [Repo](https://github.com/US3345/Brain-Tumor-Detection-Custom-CNN) |
+| **Smart Attendance (SIH)** | Face-recognition attendance — Smart India Hackathon | `Python` `CV` `Deep Learning` | [Repo](https://github.com/US3345/SIH-Project) |
+| **AI ChatBot** | Conversational AI chatbot with smart response UI | `JavaScript` `API` | [Repo](https://github.com/US3345/AI-ChatBot) |
+| **NFurniture** | Modern furniture e-commerce landing page | `HTML` `CSS` `JS` | [Repo](https://github.com/US3345/NFurniture) |
+| **Movie Guide App** | Search & browse movies via public API | `CSS` `JS` | [Repo](https://github.com/US3345/movie-guide-app) |
+| **REST API** *(in progress)* | Full CRUD backend with auth, routing, JWT | `Node.js` `Express` `MongoDB` | 🔨 |
+| **YOLO Object Detector** *(upcoming)* | Real-time object detection pipeline | `Python` `YOLO` `OpenCV` | 🔜 |
 
 </div>
 
@@ -66,8 +107,8 @@ class Umasankar:
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
@@ -78,18 +119,17 @@ class Umasankar:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### 🤖 ML / AI / Computer Vision
+### 🤖 ML / AI / Computer Vision ✅ *Hands-on*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-### 🛠️ Tools & DevOps
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -103,40 +143,20 @@ class Umasankar:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🔥 Project | 📝 Description | 🛠 Stack | 🔗 |
-|:----------|:--------------|:--------:|:--:|
-| **Brain Tumor Detection** | Custom CNN that classifies brain MRI scans | `Python` `TensorFlow` `OpenCV` `CNN` | [Repo](https://github.com/US3345/Brain-Tumor-Detection-Custom-CNN) |
-| **Smart Attendance (SIH)** | Face-recognition attendance — Smart India Hackathon | `Python` `CV` `Deep Learning` | [Repo](https://github.com/US3345/SIH-Project) |
-| **AI ChatBot** | Conversational AI chatbot with smart response UI | `JavaScript` `API` | [Repo](https://github.com/US3345/AI-ChatBot) |
-| **NFurniture** | Modern furniture e-commerce landing page | `HTML` `CSS` `JS` | [Repo](https://github.com/US3345/NFurniture) |
-| **Movie Guide App** | Search & browse movies via public API | `CSS` `JavaScript` | [Repo](https://github.com/US3345/movie-guide-app) |
-| **REST API** *(in progress)* | Full CRUD backend — auth, routing, JWT | `Node.js` `Express` `MongoDB` | 🔨 |
-| **Object Detection App** *(upcoming)* | Real-time YOLO-based object detector | `Python` `YOLO` `OpenCV` | 🔜 |
-
-</div>
-
-<br/>
-
----
-
-## 🧠 Current Focus
+## 🧠 What I'm Working On
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║                    DAILY GRIND                        ║
-╠═══════════════════════════════════════════════════════╣
-║  📚 dsa       →  Java — graphs, DP, backtracking      ║
-║  🌐 web        →  React.js + Node.js full stack       ║
-║  🤖 ml         →  sklearn, pandas, model training     ║
-║  👁  cv         →  OpenCV, CNNs, YOLO detection       ║
-║  🏗  build      →  Projects that solve real problems   ║
-╚═══════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════╗
+║                    DAILY GRIND                         ║
+╠════════════════════════════════════════════════════════╣
+║  📚  dsa      →  Java — graphs, DP, backtracking       ║
+║  🌐  web       →  React.js + Node.js full stack        ║
+║  🤖  ml        →  CNN, data preprocessing, sklearn     ║
+║  👁   cv        →  OpenCV, YOLO, image segmentation    ║
+║  🚀  ship      →  InterviewIQ.AI live — iterate fast   ║
+╚════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -145,39 +165,33 @@ class Umasankar:
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🗺️ Roadmap
 
 ```
-FOUNDATIONS
+DONE ✅
   ✅  Java DSA — arrays, recursion, trees, graphs, DP
   ✅  HTML5 / CSS3 / JavaScript (ES6+)
-  ✅  Node.js + Express.js + MongoDB (MERN)
-  ✅  CNN basics — Brain Tumor Detection project
+  ✅  Node.js + Express + MongoDB
+  ✅  CNN architecture + training from scratch
+  ✅  Data preprocessing — normalization, augmentation, pipelines
+  ✅  ML with Python — sklearn, pandas, matplotlib
+  ✅  OpenCV — image processing basics
+  ✅  Deployed a live AI product — InterviewIQ.AI 🚀
 
-WEB DEV
-  🔄  React.js + hooks + state management  ← currently here
-  ⏳  TypeScript
-  ⏳  Next.js (SSR / SSG)
-  ⏳  Docker + basic DevOps
+IN PROGRESS 🔄
+  🔄  React.js — hooks, context, state management
+  🔄  REST API with JWT auth
 
-MACHINE LEARNING
-  🔄  Python ML — sklearn, pandas, matplotlib
-  ⏳  Deep Learning with PyTorch
-  ⏳  NLP fundamentals — transformers, BERT
-  ⏳  Model deployment — Flask / FastAPI
-
-COMPUTER VISION  👁️
-  ⏳  OpenCV — image processing pipelines
+NEXT UP ⏳
+  ⏳  PyTorch deep learning
   ⏳  Object Detection — YOLO v8, SSD
   ⏳  Image Segmentation — U-Net, Mask R-CNN
   ⏳  Face Recognition + landmark detection
-  ⏳  Video analytics & optical flow
-  ⏳  Generative models — GANs, Stable Diffusion
-
-ADVANCED
+  ⏳  NLP — transformers, BERT, LLMs
+  ⏳  Model deployment — FastAPI + Docker
+  ⏳  TypeScript + Next.js
   ⏳  System Design fundamentals
-  ⏳  Cloud basics — AWS / GCP
-  ⏳  LLM fine-tuning & prompt engineering
+  ⏳  Cloud — AWS / GCP
 ```
 
 <br/>
@@ -219,7 +233,7 @@ ADVANCED
 
 <div align="center">
 
-[![Code360](https://img.shields.io/badge/Code360%20by%20Coding%20Ninjas-View%20Full%20Profile-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/430c37b1-ee5a-4b0f-af3c-76860daf384d)
+[![Code360](https://img.shields.io/badge/Code360%20Ninjas-View%20Full%20Profile-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/430c37b1-ee5a-4b0f-af3c-76860daf384d)
 
 </div>
 
@@ -231,10 +245,11 @@ ADVANCED
 
 <div align="center">
 
-I'm always open to collaborating on interesting projects, discussing ideas, or just talking tech.
+Open to collaborations, interesting projects, internships, and tech conversations.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umasankarsao/)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/US3345)
+[![Live Site](https://img.shields.io/badge/Try%20InterviewIQ.AI-3fb950?style=for-the-badge&logo=githubpages&logoColor=white)](https://agnesh.github.io/Alpha-IQ-view/)
 
 </div>
 
@@ -244,7 +259,7 @@ I'm always open to collaborating on interesting projects, discussing ideas, or j
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1b27,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 *"Consistent effort beats occasional brilliance."*
 
