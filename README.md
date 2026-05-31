@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech CSE @ **KIIT University** | **9.3 CGPA**
+- 🎓 B.Tech CSE @ **KIIT University** | **9.1 CGPA**
 - 🌱 Currently sharpening **DSA in Java** — arrays, recursion, backtracking, graphs
 - 🧠 Building real ML systems — Custom CNNs, Image Processing, Deep Learning
 - 🔧 Love crafting backend systems: REST APIs, Node.js servers, MongoDB
@@ -32,8 +32,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   [View Repo](https://github.com/US3345/AI-ChatBot)
 
-- **🎓 SIH-Project — Smart Attendance** — Attendance management system built for **Smart India Hackathon**. Automates institutional attendance tracking, reducing manual effort and errors.
-  [View Repo](https://github.com/US3345/SIH-Project)
+
 
 - **🎬 movie-guide-app** — Responsive movie discovery app with live API data. Browse, search, and explore movies with a clean and dynamic UI.
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
